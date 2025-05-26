@@ -3,7 +3,7 @@ id: checkout_integration
 title: CHECKOUT INTEGRATION test
 ---
 
-# Checkout Integration test
+# Checkout Integration test update
 Version: 6.6.2<br/>
 Released: 2025/02/26<br/>
 
