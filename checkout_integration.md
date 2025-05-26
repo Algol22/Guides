@@ -1,6 +1,6 @@
 ---
 id: checkout_integration
-title: CHECKOUT INTEGRATION
+title: CHECKOUT INTEGRATION test
 ---
 
 # Checkout Integration
